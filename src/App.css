@@ -1,0 +1,22 @@
+body{
+  background-color: bisque;
+}
+ul{
+  background-color: #55bb55;
+}
+a{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size:20px;
+  padding: 4%;
+}
+li{
+  list-style: none;
+}
+img{
+  width: 100%;
+}
+nav{
+  display: inline-block;
+}
