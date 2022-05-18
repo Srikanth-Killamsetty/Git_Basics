@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="main">
         <div className="containers">
-          <h1>main</h1>
+          <h1>stash</h1>
           <ul>
             <li>
              <a href="#"><nav>Home</nav></a>
