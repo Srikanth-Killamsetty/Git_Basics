@@ -3,11 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container">
-    <h1>This is Main Page</h1>
     <div className="main">
         <div className="containers">
-          <h1>main</h1>
+          <h1>stash1</h1>
           <ul>
             <li>
              <a href="#"><nav>Home</nav></a>
@@ -20,9 +18,6 @@ function App() {
           <p>lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adipvvlorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip</p>   
        </div>
      </div>
-     </div>
-    
-
   );
 }
 
