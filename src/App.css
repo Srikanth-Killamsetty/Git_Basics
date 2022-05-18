@@ -3,23 +3,35 @@ body{
 }
 ul{
   background-color: #55bb55;
+
+
 }
 a{
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-size:20px;
-  padding: 4%;
+  padding: 2%;
 }
 li{
   list-style: none;
 }
+
+
+.main{
+  display: inline-block;
+  width: 30%;
+  padding: 10px;
+  margin: 11px;
+  border: 1px solid;
+  text-align: center;
+  margin-top:5%;
+  
+}
+
 img{
   width: 100%;
 }
 nav{
   display: inline-block;
 }
-h1{
-  text-align:center;
-}
+
