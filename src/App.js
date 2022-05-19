@@ -6,6 +6,8 @@ function App() {
     <div className="main">
         <div className="containers">
           <h1>main</h1>
+          <h2>This is master branch
+          </h2>
           <ul>
             <li>
              <a href="#"><nav>Home</nav></a>
