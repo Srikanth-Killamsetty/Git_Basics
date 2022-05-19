@@ -4,10 +4,10 @@ import './App.css';
 function App() {
   return (
     <div className="main">
+    <h1>This is in Master Branch</h1>
+    <h2>so Master is always on top</h2>
         <div className="containers">
-          <h1>main</h1>
-          <h2>This is master branch
-          </h2>
+          <h1>master branch</h1>
           <ul>
             <li>
              <a href="#"><nav>Home</nav></a>
@@ -20,7 +20,7 @@ function App() {
           <p>lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adipvvlorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip</p>   
        </div>
      </div>
-     
+
   );
 }
 
